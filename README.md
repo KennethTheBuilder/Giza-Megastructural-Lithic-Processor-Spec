@@ -8,6 +8,7 @@ An Information-Physics Analysis of the Giza Megastructural Grid
   
 Lead Investigator & Quality Auditor: OJ  
 Copyright © 2026 OJ. All Rights Reserved.  
+ (DOI: 10.5281/zenodo.23679214)
   
 Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  
 To view a copy of this license, visit http://creativecommons.org  
